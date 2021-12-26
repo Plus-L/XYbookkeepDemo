@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.12916666666666668" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/drawable/botomnvselecter.xml" value="0.1546875" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/drawable/dialog_btn_bg.xml" value="0.140625" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.18958333333333333" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/drawable/ic_baseline_article_24.xml" value="0.18958333333333333" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.2171875" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/drawable/ic_launcher_xiaoyuanbookkeep_foreground.xml" value="0.16666666666666666" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/drawable/main_recordbtn_bg.xml" value="0.140625" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/layout/activity_account.xml" value="0.2" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/layout/activity_chart.xml" value="0.1322463768115942" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/layout/activity_history.xml" value="0.264" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/layout/activity_login.xml" value="0.21875" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/layout/activity_mine.xml" value="0.2" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/layout/activity_search.xml" value="0.19972826086956522" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/layout/activity_splash.xml" value="0.15520833333333334" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/layout/beizhu_popup.xml" value="0.14114583333333333" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/layout/chart_fragment.xml" value="0.1296875" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/layout/custom_popup.xml" value="0.12447916666666667" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/layout/detaile_fragment.xml" value="0.15172101449275363" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/layout/dialog_budget.xml" value="0.20471014492753623" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/layout/dialog_calendar.xml" value="0.1947463768115942" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/layout/dialog_calender.xml" value="0.20923913043478262" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/layout/dialog_time.xml" value="0.12864583333333332" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/layout/fragment_chart.xml" value="0.17552083333333332" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/layout/fragment_home.xml" value="0.1322463768115942" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/layout/fragment_income.xml" value="0.1484375" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/layout/fragment_outcome.xml" value="0.264" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/layout/item_chartfrag_lv.xml" value="0.18958333333333333" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/layout/item_chartfrag_top.xml" value="0.12447916666666667" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/layout/item_dialogcal_gv.xml" value="0.1625" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/layout/item_dialogcal_hsv.xml" value="0.19114583333333332" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/layout/item_mainlv.xml" value="0.2" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/layout/item_mainlv_top.xml" value="0.4" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/layout/item_record_frag.xml" value="0.1484375" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/layout/plus_fragment.xml" value="0.15172101449275363" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/menu/menu.xml" value="0.25364583333333335" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/menu/menu_navigation.xml" value="0.1734375" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.12916666666666668" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/mipmap-anydpi-v26/ic_launcher_xiaoyuanbookkeep.xml" value="0.16666666666666666" />
+        <entry key="..\:/WorkSpace/ProjectContent/AndroidProject/XYbookkeepDemo/app/src/main/res/mipmap-anydpi-v26/ic_launcher_xiaoyuanbookkeep_round.xml" value="0.16666666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

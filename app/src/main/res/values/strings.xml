@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">小沅记账</string>
+    <string name="mingxi">明细</string>
+    <string name="jiyibi">记一笔</string>
+    <string name="chart">图表</string>
+    <string name="month_out">本月支出</string>
+    <string name="out">支出</string>
+    <string name="month_in">本月收入</string>
+    <string name="in">收入</string>
+    <string name="budget">预算剩余</string>
+    <string name="see_excel">查看图表分析</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cancel">取消</string>
+    <string name="ensure">确定</string>
+    <string name="please_input_time">请输入时间</string>
+    <string name="setbudget">设置预算</string>
+    <string name="clear">清零</string>
+    <string name="cancel_en">Cancel</string>
+    <string name="ensure_en">Ensure</string>
+    <string name="clear_en">Clear</string>
+    <string name="tip_infos">提示</string>
+    <string name="content_simple_confirm_dialog">是否删除这条记账？</string>
+    <string name="please_search_info">请输入搜索信息</string>
+    <string name="date_empty">小沅没有查到相关记账qwq</string>
+    <string name="history_info">本月账单记录</string>
+    <string name="history_record">账单记录</string>
+    <string name="not_data">暂无数据</string>
+    <string name="history">历史</string>
+    <string name="my">我的</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="xuanyan">A simple and efficient bookkeeping book</string>
+
+
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/detaileFragment">
+
+    <fragment
+        android:id="@+id/detaileFragment"
+        android:name="com.plusl.xybookkeepdemo.navigation.detaileFragment"
+        android:label="detaile_fragment"
+        tools:layout="@layout/detaile_fragment" />
+    <fragment
+        android:id="@+id/plusFragment"
+        android:name="com.plusl.xybookkeepdemo.navigation.plusFragment"
+        android:label="plus_fragment"
+        tools:layout="@layout/plus_fragment" />
+    <fragment
+        android:id="@+id/chartFragment"
+        android:name="com.plusl.xybookkeepdemo.navigation.chartFragment"
+        android:label="chart_fragment"
+        tools:layout="@layout/chart_fragment" />
+
+</navigation>
