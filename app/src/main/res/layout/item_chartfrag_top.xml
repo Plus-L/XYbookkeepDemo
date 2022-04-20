@@ -10,6 +10,7 @@
         android:layout_width="match_parent"
         android:layout_height="300dp"
         android:text="@string/not_data"
+        android:textColor="@color/grey_deep"
         android:textStyle="bold"
         android:textSize="20sp"
         android:gravity="center"

@@ -51,6 +51,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/date_empty"
+        android:textColor="@color/xui_btn_gray_normal_color"
         android:gravity="center"
         android:textSize="20sp"
         android:drawableTop="@mipmap/it_searchtext"

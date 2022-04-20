@@ -8,11 +8,13 @@
         android:layout_height="wrap_content"
         android:background="@color/white"
         android:padding="20dp">
+
         <TextView
             android:id="@+id/item_mainlv_top_tv1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/month_out"/>
+            android:textColor="@color/grey_deep"
+            android:text="@string/month_out" />
         <TextView
             android:id="@+id/item_mainlv_top_tv_out"
             android:layout_width="wrap_content"
@@ -30,6 +32,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@id/item_mainlv_top_tv_out"
+            android:textColor="@color/grey_deep"
             android:text="@string/month_in" />
         <TextView
             android:id="@+id/item_mainlv_top_tv_in"
@@ -57,8 +60,9 @@
             android:layout_height="wrap_content"
             android:layout_alignBottom="@id/item_mainlv_top_tv2"
             android:layout_toLeftOf="@id/item_mainlv_top_tv_budget"
-            android:textSize="@dimen/xui_config_content_spacing_horizontal_tablet_small"
-            android:text="@string/budget" />
+            android:textColor="@color/grey_deep"
+            android:text="@string/budget"
+            android:textSize="@dimen/xui_config_content_spacing_horizontal_tablet_small" />
 
     </RelativeLayout>
     <TextView
@@ -66,6 +70,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="今日支出 ￥0 收入 ￥0"
+        android:textColor="@color/grey_deep"
         android:textStyle="bold"
         android:layout_marginTop="20dp"
         android:layout_marginBottom="10dp"/>

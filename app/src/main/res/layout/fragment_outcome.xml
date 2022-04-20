@@ -69,19 +69,22 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@color/white">
+
         <TextView
             android:id="@+id/frag_record_tv_time"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="2021年12月01日 13:19"
             android:layout_alignParentRight="true"
-            android:padding="15dp"/>
+            android:textColor="@color/grey_deep"
+            android:padding="15dp"
+            android:text="2021年12月01日 13:19" />
 
         <TextView
             android:id="@+id/frag_record_tv_beizhu"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_toLeftOf="@id/frag_record_tv_time"
+            android:textColor="@color/grey_deep"
             android:padding="15dp"
             android:text="添加备注" />
     </RelativeLayout>

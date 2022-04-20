@@ -15,10 +15,11 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textColor="@color/black"
             android:text="@string/history_record"
-            android:textStyle="bold"
             android:textSize="18sp"
-            android:layout_centerInParent="true"/>
+            android:textStyle="bold" />
 
         <ImageView
             android:id="@+id/history_iv_rili"
@@ -49,15 +50,17 @@
             android:textColor="@color/green_006400"
             android:text="@string/history_info"/>
     </RelativeLayout>
+
     <ListView
         android:id="@+id/history_lv"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:padding="10dp"
+        android:layout_above="@+id/bottomNavigationView_nav"
+        android:layout_below="@+id/history_month_data"
+        android:textColor="@color/grey_deep"
         android:divider="@null"
         android:dividerHeight="5dp"
-        android:layout_below="@+id/history_month_data"
-        android:layout_above="@+id/bottomNavigationView_nav"/>
+        android:padding="10dp" />
 
     <com.google.android.material.bottomnavigation.BottomNavigationView
         android:id="@+id/bottomNavigationView_nav"

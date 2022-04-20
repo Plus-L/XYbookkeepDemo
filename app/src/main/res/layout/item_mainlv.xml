@@ -20,6 +20,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="烟酒茶"
+            android:textColor="@color/grey_deep"
             android:textStyle="bold"
             android:textSize="16sp"/>
         <TextView
@@ -27,6 +28,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="华子一盒"
+            android:textColor="@color/grey_deep"
             android:layout_marginTop="5dp"
             android:textSize="12sp"/>
     </LinearLayout>
@@ -35,6 +37,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentRight="true"
         android:gravity="right"
+        android:textColor="@color/grey_deep"
         android:orientation="vertical">
         <TextView
             android:id="@+id/item_mainlv_tv_money"
